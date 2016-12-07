@@ -1,0 +1,39 @@
+    left-box {
+        background: #A3D9F5;
+        cursor: pointer;
+        margin: 0 3px;
+        display:block;
+    }
+
+    
+
+    div .blok {
+    background-color: white;
+    overflow: auto;
+    height: 500px;
+    width: 400px;
+    padding: 25px;
+    margin: 25px;
+    float:left; 
+    }
+
+    
+    div {
+    background-color: lightgrey;
+    overflow: auto;
+    height: 500px;
+    width: 250px;
+    padding: 25px;
+    margin: 25px;
+    float:left; 
+    }
+
+
+    button {
+        box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.5);
+        border: none;
+        border-radius: 2px;
+        background: #A3D9F5;
+        cursor: pointer;
+        margin: 0 3px;
+    }
